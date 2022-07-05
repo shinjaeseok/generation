@@ -22,13 +22,13 @@
                                     <span class="fs-tiny" id="lotto_date">({{ date('Y-m-d') }})</span>
                                 </p>
                                 <p class="mb-4 text-center">
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_1">1</span>
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_2">1</span>
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_3">1</span>
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_4">1</span>
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_5">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_1">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_2">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_3">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_4">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_5">1</span>
                                     <span class="fw-bold">+</span>
-                                    <span class="badge badge-center rounded-pill" style="height: 3rem; width: 3rem;" id="no_6">1</span>
+                                    <span class="badge badge-center rounded-pill" style="height: 2.6rem; width: 2.6rem;" id="no_6">1</span>
                                 </p>
                                 <p class="mb-4 text-center">
                                     <span class="fw-bold">당첨을 축하합니다!</span>
