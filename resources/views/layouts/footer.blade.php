@@ -11,7 +11,7 @@
         </div>
         <div>
             <a
-                href="https://https://github.com/shinjaeseok"
+                href="https://github.com/shinjaeseok"
                 target="_blank"
                 class="footer-link me-4"
             >문의하기</a
