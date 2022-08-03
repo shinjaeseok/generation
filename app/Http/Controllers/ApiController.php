@@ -32,7 +32,7 @@ class ApiController extends BaseController
 
     public function getLastLottoNumber(Request $request) {
 
-        $url = 'https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=1024';
+        $url = 'https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=1026';
 
         $result = json_decode($this->get($url));
 
